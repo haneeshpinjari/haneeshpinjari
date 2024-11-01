@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PINJRI HANEESH</h1>
-<h3 align="center">A passionate PYHTON FULL STACK DEVELLOPER AND AI-ML IN INDIA</h3>
+<h3 align="center">A passionate PYTHON FULL STACK DEVELOPER AND AI-ML IN INDIA</h3>
 
 - 🔭 I’m currently working on **AI IMAGE GENERATOR**
 
